@@ -31,4 +31,4 @@ Resultado
 
 ## Diccionario
 
-[Diccionario 🔗]()
+[Diccionario ❓]()
