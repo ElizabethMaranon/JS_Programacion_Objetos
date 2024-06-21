@@ -14,9 +14,6 @@
 
 ## Guía DevCamp → 
 
-## Diccionario
-//enlace diccionario
-[Diccionario 🔗]()
 
 ## [Coding Exercise🔗]()
 
@@ -31,3 +28,7 @@ Resultado
 ### [DevCamp Exclusivo Usuarios → ]() 
 
 ### [Código Mielma🔗]()
+
+## Diccionario
+
+[Diccionario 🔗]()
