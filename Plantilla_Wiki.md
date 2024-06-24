@@ -1,4 +1,4 @@
-![Logo_Encabezado](https://github.com/ElizabethMaranon/JS_Programacion_Objetos/blob/52f1951f71032f257c969c008e749c386fb5c200/Image/Logo_Encabezado.png)
+![Logo_Encabezado](https://github.com/ElizabethMaranon/JS_Programaci-n_Promesas/blob/6c09699b65d7217610ec35124056749908dbc7f0/image/Logo_Encabezado.png)
 
 # [🔗]()
 
